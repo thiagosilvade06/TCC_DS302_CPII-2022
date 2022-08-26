@@ -8,6 +8,8 @@
 
 # CD-02: Logout
 ## Fluxo Principal
-1.
-2.
-3.
+1. O usuário clica em "Sair da Conta"
+2. Aparece um Pop-Up dizendo "Você realmente deseja sair da conta?"
+3. O usuário clica no botão dizendo "Sim!"
+4. A conta do usuário é desconectada do dispositivo
+5. O usuário volta para a página de Login
